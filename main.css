@@ -1,3 +1,11 @@
-.jonathan {text-align: center; text-transform: uppercase; }
-.curso {color: red;}
-    
+.jonathan {text-align: center; text-transform: uppercase;}
+
+.curso {color: red;background-color: black;
+width: 100%;}
+
+.imagem {width: 500px;
+    height: 400px  ;
+align-items: center;}
+
+.corpo {background-color: black;}
+
