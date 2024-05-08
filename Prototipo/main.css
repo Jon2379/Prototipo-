@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+nav {
+    background-color: white;
+    color: black;
+    text-align: center;
+    height: 100%;
+    font-size: 25px;
+    padding: 1px;
+}
+
+.titulo {
+    color: red;
+    background-color: #000000;
+    text-align: center;
+    font-size: 12px;
+}
+
+.curiosidades {
+    background-color: white;
+    font-size: 10px;
+    text-align: center;
+    color: #000000;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.container {
+    float: left;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 500px;
+}
+
+.img {
+    display: flex;
+    float: left;
+    justify-content: space-between;
+    margin-right: 50px;
+}
+
+.lista {
+    float:left;
+}
+
+.informações {
+    color: white;
+    float: left;
+    flex-direction: column;
+}
